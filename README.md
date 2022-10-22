@@ -1,5 +1,5 @@
 
-# New Repo
+# New Repository
 
 A brief repository about how to waste time doing absolutely nothing.
 
