@@ -7,7 +7,7 @@ A brief repository about how to waste time doing absolutely nothing.
 
 ## Acknowledgements
 
- - [Useless](#)
+ - [Useless](https://facebook.com/sharmakeeran9)
  - [Time Waste](#)
  - [What am I doing](#)
 
